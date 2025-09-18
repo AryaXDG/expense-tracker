@@ -1,0 +1,23 @@
+# Expense Tracker Application Requirements
+# Install with: pip install -r requirements.txt
+
+# Core dependencies
+matplotlib>=3.5.0
+requests>=2.25.0
+
+# Optional: For better date/time handling (already included in Python standard library)
+# datetime - included in Python standard library
+
+# Optional: Enhanced GUI components
+# tkinter - included in Python standard library
+
+# Development dependencies (optional)
+# pytest>=6.0.0  # For testing
+# black>=21.0.0   # For code formatting
+# flake8>=4.0.0   # For code linting
+
+# Note: The following are already included in Python standard library:
+# - tkinter (GUI framework)
+# - datetime (date/time handling)
+# - os (file operations)
+# - collections (defaultdict, etc.)

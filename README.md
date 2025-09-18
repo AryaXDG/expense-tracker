@@ -3,6 +3,10 @@
 A feature-rich desktop application built with Python and Tkinter for tracking personal expenses with AI-powered insights using Google's Gemini API.
 
 ![Python](https://img.shields.io/badge/python-v3.7+-blue.svg)
+![Tkinter](https://img.shields.io/badge/GUI-Tkinter-green.svg)
+![Matplotlib](https://img.shields.io/badge/Charts-Matplotlib-orange.svg)
+![AI](https://img.shields.io/badge/AI-Gemini%20API-purple.svg)
+
 
 ## Features
 

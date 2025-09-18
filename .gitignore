@@ -17,5 +17,5 @@ data.txt
 Thumbs.db
 
 # Plot images or temporary files
-*.png
+.png
 *.log
